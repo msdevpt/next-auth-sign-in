@@ -7,12 +7,13 @@ A simple google sign in/out application.
 NEXT_PUBLIC_FIREBASE_API_KEY=
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
 NEXT_PUBLIC_FIREBASE_PROJECT_ID=
+```
 
 ## Getting Started
 
 ```bash
-$ git clone https://github.com/leerob/fastfeedback.git
-$ cd fastfeedback
+$ git clone https://github.com/msdevpt/next-auth-sign-in.git
+$ cd next-auth-sign-in
 $ yarn
 $ yarn dev
 ```
